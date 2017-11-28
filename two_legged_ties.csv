@@ -1,0 +1,240 @@
+﻿Number,Tournament,Season,Playoff round,Team 1,Team 2,Home odds game 1,Draw odds game 1,Away odds game 1,ELO Rating ,Home Goals game 1,Away goals game 1,Result,Goal difference,Team 2,Team 1,Home odds game 2,Draw odds game 2,Away odds game 2,ELO Rating ,Home Goals game 2,Away goals game 2,Result,Goal difference
+1,Champions League,1617,Semifinal,Real Madrid,Atl. Madrid,1.81,3.54,5.41,-190.2074761,3,0,1,3,Atl. Madrid,Real Madrid,2.64,3.67,2.72,-5.185990866,2,1,1,1
+2,Champions League,1617,Semifinal,Monaco,Juventus,3.13,3.35,2.48,40.43706269,0,2,2,-2,Juventus,Monaco,1.64,4.01,6.22,-231.5786147,2,1,1,1
+3,Champions League,1617,Quarterfinal,Juventus ,Barcelona,2.71,3.41,2.8,-5.675496187,3,0,1,3,Barcelona,Juventus ,1.47,5.22,6.83,-266.8413476,0,0,X,0
+4,Champions League,1617,Quarterfinal,Dortmund,Monaco,1.53,5.14,5.87,-233.5786682,2,3,2,-1,Monaco,Dortmund,3.04,4.19,2.21,55.39252397,3,1,1,2
+5,Champions League,1617,Quarterfinal,Bayern Munich,Real Madrid,1.68,4.47,4.94,-187.3670669,1,2,2,-1,Real Madrid,Bayern Munich,2.66,3.97,2.55,7.336582479,1,2,2,-1
+6,Champions League,1617,Quarterfinal,Atl. Madrid,Leicester,1.32,5.53,12.17,-385.8866588,1,0,1,1,Leicester,Atl. Madrid,4.62,3.89,1.83,160.8763543,1,1,X,0
+7,Champions League,1617,1/8-final,Benfica,Dortmund,3.3,3.39,2.37,57.50623755,1,0,1,1,Dortmund,Benfica,1.28,6.65,11.29,-378.1935889,4,0,1,4
+8,Champions League,1617,1/8-final,Real Madrid,Napoli,1.57,4.5,6.25,-239.992146,3,1,1,2,Napoli,Real Madrid,3,4.05,2.27,48.43815901,1,3,2,-2
+9,Champions League,1617,1/8-final,FC Porto,Juventus,3.09,2.99,2.75,20.25031424,0,2,2,-2,Juventus,FC Porto,1.79,3.58,5.5,-195.0038634,1,0,1,1
+10,Champions League,1617,1/8-final,Manchester City ,Monaco,1.6,4.4,6.03,-230.4789318,5,3,1,2,Monaco,Manchester City ,2.95,3.9,2.35,39.50166148,3,1,1,2
+11,Champions League,1617,1/8-final,Bayer Leverkusen,Atl. Madrid,3.05,3.1,2.7,21.17443008,2,4,2,-2,Atl. Madrid,Bayer Leverkusen,1.52,4.61,6.98,-264.8047339,0,0,X,0
+12,Champions League,1617,1/8-final,Sevilla,Leicester,1.38,5.23,9.81,-340.7159684,2,1,1,1,Leicester,Sevilla,3.11,3.61,2.37,47.20481721,2,0,1,2
+13,Champions League,1516,Semifinal,Manchester City ,Real Madrid,2.57,3.3,3.05,-29.74668641,0,0,X,0,Real Madrid,Manchester City ,1.49,4.89,6.91,-266.5167116,1,0,1,1
+14,Champions League,1516,Semifinal,Atl. Madrid,Bayern Munich,3.28,2.97,2.64,37.70796674,1,0,1,1,Bayern Munich,Atl. Madrid,1.56,4.15,7.19,-265.4417168,2,1,1,1
+15,Champions League,1516,Quarterfinal,Bayern Munich,Benfica,1.24,6.9,14.99,-432.9519791,1,0,1,1,Benfica,Bayern Munich,7.23,4.26,1.55,267.5226396,2,2,X,0
+16,Champions League,1516,Quarterfinal,Barcelona,Atl. Madrid,1.54,4.15,7.72,-280.0386318,2,1,1,1,Atl. Madrid,Barcelona,3.11,3.5,2.42,43.57800922,2,0,1,2
+17,Champions League,1516,Quarterfinal,Wolfsburg,Real Madrid,5.41,4.45,1.64,207.3413668,2,0,1,2,Real Madrid,Wolfsburg,1.19,8.7,16.2,-453.5872213,3,0,1,3
+18,Champions League,1516,Quarterfinal,Paris SG,Manchester City,1.71,4,5.42,-200.4012705,2,2,X,0,Manchester City,Paris SG,2.93,3.61,2.49,28.2673093,1,0,1,1
+19,Champions League,1516,1/8-final,Paris SG,Chelsea,1.62,3.97,6.62,-244.53719,2,1,1,1,Chelsea,Paris SG,2.95,3.46,2.55,25.31273422,1,2,2,-1
+20,Champions League,1516,1/8-final,Benfica,Zenit Petersburg,2.07,3.46,4.02,-115.3022831,1,0,1,1,Zenit Petersburg,Benfica,2.16,3.55,3.64,-90.659053,1,2,2,-1
+21,Champions League,1516,1/8-final,Gent ,Wolfsburg,3.36,3.3,2.39,59.17655058,2,3,2,-1,Wolfsburg,Gent ,1.54,4.57,6.51,-250.4241071,1,0,1,1
+22,Champions League,1516,1/8-final,AS Roma,Real Madrid,4.32,3.8,1.9,142.6920583,0,2,2,-2,Real Madrid,AS Roma,1.36,5.89,8.5,-318.3520069,2,0,1,2
+23,Champions League,1516,1/8-final,Juventus ,Bayern Munich,3.73,3.2,2.27,86.27318985,2,2,X,0,Bayern Munich,Juventus ,1.48,4.55,8.08,-294.8598582,2,2,X,0
+24,Champions League,1516,1/8-final,Arsenal,Barcelona,4.12,3.73,1.96,129.0564579,0,2,2,-2,Barcelona,Arsenal,1.24,7.5,12.4,-400,3,1,1,2
+25,Champions League,1516,1/8-final,PSV ,Atl. Madrid,5.06,3.29,1.93,167.4372831,0,0,X,0,Atl. Madrid,PSV ,1.33,5.28,12.46,-388.6665605,0,0,X,0
+26,Champions League,1516,1/8-final,Dyn. Kiev,Manchester City,3.44,3.12,2.45,58.95694328,1,3,2,-2,Manchester City,Dyn. Kiev,1.44,4.7,8.7,-312.4627042,0,0,X,0
+27,Champions League,1415,Semifinal,Juventus ,Real Madrid,2.67,3.18,3.03,-21.97254686,2,1,1,1,Real Madrid,Juventus ,1.66,4.27,5.41,-205.2356708,1,1,X,0
+28,Champions League,1415,Semifinal,Barcelona,Bayern Munich,1.77,3.95,4.95,-178.652773,3,0,1,3,Bayern Munich,Barcelona,2.49,3.76,2.81,-21.00278912,3,2,1,1
+29,Champions League,1415,Quarterfinal,Juventus ,Monaco,1.53,3.95,8.65,-300.9298707,1,0,1,1,Monaco,Juventus ,4.17,3.15,2.16,114.2729215,0,0,X,0
+30,Champions League,1415,Quarterfinal,Atl. Madrid,Real Madrid,2.96,3.3,2.64,19.87511368,0,0,X,0,Real Madrid,Atl. Madrid,2.02,3.43,4.29,-130.8423691,1,0,1,1
+31,Champions League,1415,Quarterfinal,Paris SG,Barcelona,4.79,3.59,1.88,162.4710657,1,3,2,-2,Barcelona,Paris SG,1.45,5.28,7.1,-275.9561386,2,0,1,2
+32,Champions League,1415,Quarterfinal,FC Porto,Bayern Munich,4.12,3.27,2.12,115.424542,3,1,1,2,Bayern Munich,FC Porto,1.35,5.42,10.53,-356.8378411,6,1,1,5
+33,Champions League,1415,1/8-final,Shakhtar Donetsk,Bayern Munich,9.47,5.2,1.37,335.8517647,0,0,X,0,Bayern Munich,Shakhtar Donetsk,1.17,8.75,21,-501.6133732,7,0,1,7
+34,Champions League,1415,1/8-final,Paris SG,Chelsea,2.6,3.06,3.23,-37.69166974,1,1,X,0,Chelsea,Paris SG,2.29,3.24,3.61,-79.06868783,1,1,X,0
+35,Champions League,1415,1/8-final,Schalke,Real Madrid,7.45,4.44,1.51,277.2717302,0,2,2,-2,Real Madrid,Schalke,1.21,7.65,15.56,-443.6896889,3,4,2,-1
+36,Champions League,1415,1/8-final,Basel,FC Porto,3.82,3.24,2.22,94.28415538,1,1,X,0,FC Porto,Basel,1.45,4.72,8.45,-306.1954827,4,0,1,4
+37,Champions League,1415,1/8-final,Manchester City ,Barcelona,3.96,3.71,2.01,117.7996514,1,2,2,-1,Barcelona,Manchester City ,1.37,5.8,8.4,-315.0234876,1,0,1,1
+38,Champions League,1415,1/8-final,Juventus ,Dortmund,1.96,3.38,4.68,-151.1959127,2,1,1,1,Dortmund,Juventus ,2.3,3.42,3.41,-68.41061719,0,3,2,-3
+39,Champions League,1415,1/8-final,Bayer Leverkusen,Atl. Madrid,3.06,3.05,2.72,20.46100898,1,0,1,1,Atl. Madrid,Bayer Leverkusen,1.76,3.6,5.7,-204.1448751,1,0,1,1
+40,Champions League,1415,1/8-final,Arsenal,Monaco,1.63,3.79,7.25,-259.2601609,1,3,2,-2,Monaco,Arsenal,3.52,3.71,2.15,85.64168143,0,2,2,-2
+41,Champions League,1314,Semifinal,Atl. Madrid,Chelsea,1.77,3.6,5.65,-201.6300726,0,0,X,0,Chelsea,Atl. Madrid,2.51,3.27,3.16,-40.00534445,1,3,2,-2
+42,Champions League,1314,Semifinal,Real Madrid,Bayern Munich,2.28,3.68,3.24,-61.04406528,1,0,1,1,Bayern Munich,Real Madrid,1.75,4.62,4.33,-157.3799391,0,4,2,-4
+43,Champions League,1314,Quarterfinal,Manchester United,Bayern Munich,6.87,4.92,1.49,265.5081875,1,1,X,0,Bayern Munich,Manchester United,1.31,6.29,9.98,-352.7436983,3,1,1,2
+44,Champions League,1314,Quarterfinal,Barcelona,Atl. Madrid,1.57,4.32,6.52,-247.3391773,1,1,X,0,Atl. Madrid,Barcelona,3.72,3.7,2.07,101.8290378,1,0,1,1
+45,Champions League,1314,Quarterfinal,Real Madrid,Dortmund,1.39,5.47,8.4,-312.5057943,3,0,1,3,Dortmund,Real Madrid,3.06,3.98,2.26,52.64519493,2,0,1,2
+46,Champions League,1314,Quarterfinal,Paris SG,Chelsea,2.1,3.4,3.98,-111.0655109,3,1,1,2,Chelsea,Paris SG,1.88,3.89,4.3,-143.7242425,2,0,1,2
+47,Champions League,1314,1/8-final,Manchester City ,Barcelona,2.97,3.68,2.42,35.57643333,0,2,2,-2,Barcelona,Manchester City ,1.67,4.7,4.81,-183.7714421,2,1,1,1
+48,Champions League,1314,1/8-final,Arsenal,Bayern Munich,5.31,4.38,1.66,201.9945732,0,2,2,-2,Bayern Munich,Arsenal,1.33,6.46,8.61,-324.4606042,1,1,X,0
+49,Champions League,1314,1/8-final,AC Milan,Atl. Madrid,4.12,3.37,2.08,118.7335524,0,1,2,-1,Atl. Madrid,AC Milan,1.48,4.75,7.55,-283.0740945,4,1,1,3
+50,Champions League,1314,1/8-final,Zenit Petersburg,Dortmund,4.88,4.09,1.75,178.1527093,2,4,2,-2,Dortmund,Zenit Petersburg,1.33,6.25,9.08,-333.693683,1,2,2,-1
+51,Champions League,1314,1/8-final,Olympiakos Piraeus,Manchester United,3.19,3.29,2.48,43.73560089,2,0,1,2,Manchester United,Olympiakos Piraeus,1.45,4.9,7.75,-291.1734801,3,0,1,3
+52,Champions League,1314,1/8-final,Galatasaray,Chelsea,3.54,3.3,2.29,75.66711187,1,1,X,0,Chelsea,Galatasaray,1.47,4.65,8.12,-296.8954778,2,0,1,2
+53,Champions League,1213,Semifinal,Dortmund,Real Madrid,2.54,3.5,2.84,-19.39384937,4,1,1,3,Real Madrid,Dortmund,1.53,5.27,5.7,-228.4733699,2,0,1,2
+54,Champions League,1213,Quarterfinal,Paris SG,Barcelona,4.46,3.74,1.89,149.1492218,2,2,X,0,Barcelona,Paris SG,1.42,5.2,8.19,-304.398223,1,1,X,0
+55,Champions League,1213,Quarterfinal,Bayern Munich,Juventus,1.57,4.13,7.12,-262.6321365,2,0,1,2,Juventus,Bayern Munich,3.19,3.38,2.43,47.27376378,0,2,2,-2
+56,Champions League,1213,Quarterfinal,Real Madrid,Galatasaray,1.19,8.27,16.71,-458.9717954,3,0,1,3,Galatasaray,Real Madrid,4.95,4.01,1.76,179.6370124,3,2,1,1
+57,Champions League,1213,Quarterfinal,Malaga,Dortmund,3.38,3.6,2.24,71.46747278,0,0,X,0,Dortmund,Malaga,1.33,5.6,10.85,-364.6312389,3,2,1,1
+58,Champions League,1213,1/8-final,Valencia,Paris SG,2.43,3.35,3.21,-48.35950352,1,2,2,-1,Paris SG,Valencia,1.97,3.45,4.47,-142.3365188,1,1,X,0
+59,Champions League,1213,1/8-final,Celtic,Juventus,4.88,3.58,1.86,167.5627511,0,3,2,-3,Juventus,Celtic,1.45,4.76,8.1,-298.8468067,2,0,1,2
+60,Champions League,1213,1/8-final,Shakhtar Donetsk,Dortmund,2.5,3.41,3.04,-33.97342997,2,2,X,0,Dortmund,Shakhtar Donetsk,1.67,4.2,5.44,-205.1529714,3,0,1,3
+61,Champions League,1213,1/8-final,Real Madrid,Manchester United,1.53,5.15,5.75,-229.9905655,1,1,X,0,Manchester United,Real Madrid,3.1,3.58,2.38,45.91389471,1,2,2,-1
+62,Champions League,1213,1/8-final,FC Porto,Malaga,1.62,3.89,6.64,-245.0612259,1,0,1,1,Malaga,FC Porto,2.84,3.29,2.73,6.862277203,2,0,1,2
+63,Champions League,1213,1/8-final,Arsenal,Bayern Munich,4.48,3.69,1.9,149.0097652,1,3,2,-2,Bayern Munich,Arsenal,1.33,6.3,9.25,-336.9160367,0,2,2,-2
+64,Champions League,1213,1/8-final,Galatasaray,Schalke,2.4,3.55,3.15,-47.23972483,1,1,X,0,Schalke,Galatasaray,1.74,4.12,4.95,-181.6223803,2,3,2,-1
+65,Champions League,1213,1/8-final,AC Milan,Barcelona,6.51,4.12,1.6,243.7844024,2,0,1,2,Barcelona,AC Milan,1.29,6.45,11.3,-376.9954933,4,0,1,4
+66,Champions League,1112,Semifinal,Bayern Munich,Real Madrid,2.65,3.52,2.79,-8.943331735,2,1,1,1,Real Madrid,Bayern Munich,1.52,4.93,6.35,-248.3720549,2,1,1,1
+67,Champions League,1112,Semifinal,Chelsea,Barcelona,5.3,4.11,1.7,197.5307793,1,0,1,1,Barcelona,Chelsea,1.24,7.6,11.75,-390.6464726,2,2,X,0
+68,Champions League,1112,Quarterfinal,Benfica,Chelsea,2.27,3.45,3.45,-72.71729515,0,1,2,-1,Chelsea,Benfica,1.67,4.01,5.85,-217.775758,2,1,1,1
+69,Champions League,1112,Quarterfinal,APOEL ,Real Madrid,10.99,5.16,1.36,362.9835136,0,3,2,-3,Real Madrid,APOEL ,1.09,13.8,37,-612.3100905,5,2,1,3
+70,Champions League,1112,Quarterfinal,Marseille,Bayern Munich,4.95,3.75,1.81,174.7706496,0,2,2,-2,Bayern Munich,Marseille,1.43,4.8,8.65,-312.672028,2,0,1,2
+71,Champions League,1112,Quarterfinal,AC Milan,Barcelona,4.96,4.08,1.75,180.9774511,0,0,X,0,Barcelona,AC Milan,1.25,6.9,12.95,-406.1439022,3,1,1,2
+72,Champions League,1112,1/8-final,Lyon,APOEL,1.51,4.18,8.49,-299.9722972,1,0,1,1,APOEL,Lyon,2.88,3.41,2.62,16.43647858,1,0,1,1
+73,Champions League,1112,1/8-final,Bayer Leverkusen,Barcelona,9.85,5.19,1.37,342.6862653,1,3,2,-2,Barcelona,Bayer Leverkusen,1.12,10.35,26.5,-549.6111405,7,1,1,6
+74,Champions League,1112,1/8-final,Zenit Petersburg,Benfica,2.42,3.3,3.27,-52.29295467,3,2,1,1,Benfica,Zenit Petersburg,1.79,3.75,5.09,-181.5459005,2,0,1,2
+75,Champions League,1112,1/8-final,CSKA Moscow,Real Madrid,8.23,4.57,1.47,299.2330002,1,1,X,0,Real Madrid,CSKA Moscow,1.1,12.57,28.59,-565.9285881,4,1,1,3
+76,Champions League,1112,1/8-final,Napoli,Chelsea,2.23,3.39,3.61,-83.68093554,3,1,1,2,Chelsea,Napoli,1.62,4.55,5.45,-210.7525951,3,1,1,2
+77,Champions League,1112,1/8-final,Marseille,Inter,1.92,3.67,4.44,-145.6326966,1,0,1,1,Inter,Marseille,2.08,3.6,3.8,-104.6881047,2,1,1,1
+78,Champions League,1112,1/8-final,Basel,Bayern Munich,6.42,4.09,1.61,240.2836608,1,0,1,1,Bayern Munich,Basel,1.2,8,15.75,-447.2397248,7,0,1,7
+79,Champions League,1011,Semifinal,Schalke,Manchester United,3.8,3.36,2.18,96.5308412,0,2,2,-2,Manchester United,Schalke,1.62,3.89,6.7,-246.6239153,4,1,1,3
+80,Champions League,1011,Semifinal,Real Madrid,Barcelona,2.77,3.2,2.88,-6.765087478,0,2,2,-2,Barcelona,Real Madrid,1.63,4.42,5.48,-210.6371816,1,1,X,0
+81,Champions League,1011,Quarterfinal,Inter,Schalke,1.74,3.58,6,-215.0408008,2,5,2,-3,Schalke,Inter,2.56,3.76,2.75,-12.43709141,2,1,1,1
+82,Champions League,1011,Quarterfinal,Chelsea,Manchester United,2.16,3.25,3.97,-105.7347022,0,1,2,-1,Manchester United,Chelsea,2.29,3.52,3.32,-64.52104055,2,1,1,1
+83,Champions League,1011,1/8-final,Valencia,Schalke,1.7,3.75,5.99,-218.7911604,1,1,X,0,Schalke,Valencia,2.68,3.2,2.99,-19.01455772,3,1,1,2
+84,Champions League,1011,1/8-final,AC Milan,Tottenham,1.74,3.79,5.5,-199.9253765,0,1,2,-1,Tottenham,AC Milan,2.44,3.55,3.03,-37.62112087,0,0,X,0
+85,Champions League,1011,1/8-final,AS Roma,Shakhtar Donetsk,2.37,3.33,3.36,-60.63637255,2,3,2,-1,Shakhtar Donetsk,AS Roma,1.76,4.13,4.74,-172.1062695,3,0,1,3
+86,Champions League,1011,1/8-final,Arsenal,Barcelona,4.28,4.01,1.86,144.7723299,2,1,1,1,Barcelona,Arsenal,1.32,6.37,9.35,-340.0950719,3,1,1,2
+87,Champions League,1011,1/8-final,Lyon,Real Madrid,4.53,3.46,1.96,145.5368523,1,1,X,0,Real Madrid,Lyon,1.35,5.45,10.35,-353.8426325,3,0,1,3
+88,Champions League,1011,1/8-final,FC Copenhagen,Chelsea,4.73,3.24,2,149.532458,0,2,2,-2,Chelsea,FC Copenhagen,1.27,6.29,12.88,-402.4448568,0,0,X,0
+89,Champions League,1011,1/8-final,Marseille,Manchester United,3.1,3.14,2.64,27.90310679,0,0,X,0,Manchester United,Marseille,1.58,3.98,7.15,-262.2595819,2,1,1,1
+90,Champions League,1011,1/8-final,Inter,Bayern Munich,2.79,3.23,2.84,-3.085654709,0,1,2,-1,Bayern Munich,Inter,1.76,4.3,4.53,-164.2342137,2,3,2,-1
+91,Champions League,0910,Semifinal,Inter,Barcelona,3.25,3.27,2.45,49.08691065,3,1,1,2,Barcelona,Inter,1.44,5.25,7.39,-284.1127785,1,0,1,1
+92,Champions League,0910,Semifinal,Bayern Munich,Lyon,1.68,3.94,5.85,-216.7386337,1,0,1,1,Lyon,Bayern Munich,2.45,3.53,3.05,-38.05350199,0,3,2,-3
+93,Champions League,0910,Quarterfinal,Lyon,Bordeaux,2.25,3.26,3.72,-87.34416871,3,1,1,2,Bordeaux,Lyon,2.14,3.51,3.7,-95.11518029,1,0,1,1
+94,Champions League,0910,Quarterfinal,Bayern Munich,Manchester United,2.82,3.31,2.74,4.9994182,2,1,1,1,Manchester United,Bayern Munich,1.79,4.03,4.8,-171.3552826,3,2,1,1
+95,Champions League,0910,Quarterfinal,Inter,CSKA Moscow,1.44,4.59,9.5,-327.7444453,1,0,1,1,CSKA Moscow,Inter,3.43,3.38,2.29,70.18345508,0,1,2,-1
+96,Champions League,0910,Quarterfinal,Arsenal,Barcelona,3.22,3.48,2.37,53.24301027,2,2,X,0,Barcelona,Arsenal,1.37,5.6,8.9,-325.0677758,4,1,1,3
+97,Champions League,0910,1/8-final,Lyon,Real Madrid,4.2,3.48,2.02,127.1591684,1,0,1,1,Real Madrid,Lyon,1.3,6.13,11.2,-374.1098681,1,1,X,0
+98,Champions League,0910,1/8-final,AC Milan,Manchester United,3.11,3.11,2.65,27.80580604,2,3,2,-1,Manchester United,AC Milan,1.71,3.92,5.35,-198.1430687,4,0,1,4
+99,Champions League,0910,1/8-final,FC Porto,Arsenal,2.34,3.25,3.53,-71.42353919,2,1,1,1,Arsenal,FC Porto,1.62,4.16,6.06,-229.1830438,5,0,1,5
+100,Champions League,0910,1/8-final,Bayern Munich,Fiorentina,1.42,4.69,9.8,-335.5750925,2,1,1,1,Fiorentina,Bayern Munich,3.05,3.51,2.45,38.05350199,3,2,1,1
+101,Champions League,0910,1/8-final,VfB Stuttgart,Barcelona,6.08,4.05,1.65,226.567854,1,1,X,0,Barcelona,VfB Stuttgart,1.23,7.1,15.9,-444.5968052,4,0,1,4
+102,Champions League,0910,1/8-final,Olympiakos Piraeus,Bordeaux,3.14,3.16,2.59,33.4519536,0,1,2,-1,Bordeaux,Olympiakos Piraeus,1.55,4.23,7.12,-264.8593182,2,1,1,1
+103,Champions League,0910,1/8-final,CSKA Moscow,Sevilla,2.65,3.16,3.07,-25.55700062,1,1,X,0,Sevilla,CSKA Moscow,1.6,4.07,6.8,-251.355572,1,2,2,-1
+104,Champions League,0910,1/8-final,Inter,Chelsea,2.64,3.15,3.09,-27.34182102,2,1,1,1,Chelsea,Inter,1.63,4.2,5.91,-223.7599506,0,1,2,-1
+105,Champions League,0809,Semifinal,Barcelona,Chelsea,1.72,3.87,5.6,-205.063832,0,0,X,0,Chelsea,Barcelona,2.7,3.59,2.69,0.644593663,1,1,X,0
+106,Champions League,0809,Semifinal,Manchester United,Arsenal,1.79,3.68,5.42,-192.4585022,1,0,1,1,Arsenal,Manchester United,2.77,3.52,2.67,6.38740308,1,3,2,-2
+107,Champions League,0809,Quarterfinal,Villarreal,Arsenal,3.2,3.19,2.52,41.49977502,1,1,X,0,Arsenal,Villarreal,1.47,4.34,8.69,-308.6809767,3,0,1,3
+108,Champions League,0809,Quarterfinal,Manchester United,FC Porto,1.44,4.48,9.75,-332.2568494,2,2,X,0,FC Porto,Manchester United,3.59,3.5,2.19,85.8601335,0,1,2,-1
+109,Champions League,0809,Quarterfinal,Liverpool,Chelsea,2.24,3.04,4.12,-105.8596791,1,3,2,-2,Chelsea,Liverpool,2.37,3.39,3.25,-54.85400599,4,4,X,0
+110,Champions League,0809,1/8-final,Lyon,Barcelona,3.94,3.5,2.08,110.9731547,1,1,X,0,Barcelona,Lyon,1.41,4.8,10.7,-352.065866,5,2,1,3
+111,Champions League,0809,1/8-final,Inter,Manchester United,2.52,3.12,3.23,-43.12079262,0,0,X,0,Manchester United,Inter,1.66,3.9,6.7,-242.3866859,2,0,1,2
+112,Champions League,0809,1/8-final,Atl. Madrid,FC Porto,2.21,3.25,3.76,-92.3182285,2,2,X,0,FC Porto,Atl. Madrid,2.13,3.58,3.72,-96.86533458,0,0,X,0
+113,Champions League,0809,1/8-final,Arsenal,AS Roma,2.02,3.27,4.59,-142.5845264,1,0,1,1,AS Roma,Arsenal,2.64,3.41,2.88,-15.11542436,1,0,1,1
+114,Champions League,0809,1/8-final,Villarreal,Panathinaikos,1.74,3.78,5.63,-203.9836586,1,1,X,0,Panathinaikos,Villarreal,2.66,3.29,2.94,-17.38627751,2,2,X,0
+115,Champions League,0809,1/8-final,Real Madrid,Liverpool,2.04,3.28,4.55,-139.3524917,0,1,2,-1,Liverpool,Real Madrid,2.27,3.24,3.65,-82.50680291,4,0,1,4
+116,Champions League,0809,1/8-final,Chelsea,Juventus,1.79,3.39,6.32,-219.1456189,1,0,1,1,Juventus,Chelsea,2.79,3.19,2.87,-4.911077384,2,2,X,0
+117,Europa League ,1617,Semifinal,Ajax,Lyon,2.2,3.64,3.45,-78.1585657,4,1,1,3,Lyon,Ajax,1.83,4.49,4,-135.8435606,3,1,1,2
+118,Europa League ,1617,Semifinal,Celta Vigo,Manchester United,3.48,3.16,2.4,64.54720089,0,1,2,-1,Manchester United,Celta Vigo,1.59,4.01,7.13,-260.6769622,1,1,X,0
+119,Europa League ,1617,Quarterfinal,Lyon,Besiktas,1.43,5.03,8.01,-299.3185914,2,1,1,1,Besiktas,Lyon,2.79,3.77,2.52,17.681465,2,1,1,1
+120,Europa League ,1617,Quarterfinal,Celta Vigo,Genk,1.63,3.96,6.24,-233.1987941,3,2,1,1,Genk,Celta Vigo,2.55,3.72,2.78,-15.00184619,1,1,X,0
+121,Europa League ,1617,Quarterfinal,Anderlecht,Manchester United,5.38,3.84,1.73,197.094469,1,1,X,0,Manchester United,Anderlecht,1.26,6.31,14.28,-421.7430649,1,1,X,0
+122,Europa League ,1617,Quarterfinal,Ajax,Schalke,2.33,3.45,3.28,-59.40716907,2,0,1,2,Schalke,Ajax,2.19,3.91,3.24,-68.04035815,2,0,1,2
+123,Europa League ,1617,1/8-final,FK Rostov,Manchester United,5.33,3.53,1.81,187.6194537,1,1,X,0,Manchester United,FK Rostov,1.24,6.25,17.95,-464.2571071,1,0,1,1
+124,Europa League ,1617,1/8-final,FC Copenhagen,Ajax,2.26,3.17,3.76,-88.43176231,2,1,1,1,Ajax,FC Copenhagen,1.83,3.76,4.66,-162.3739308,2,0,1,2
+125,Europa League ,1617,1/8-final,APOEL ,Anderlecht,3.39,3.3,2.34,64.39353632,0,1,2,-1,Anderlecht,APOEL ,1.43,5.2,7.52,-288.3527213,1,0,1,1
+126,Europa League ,1617,1/8-final,Schalke,B. Monchengladbach,2.48,3.27,3.17,-42.64303256,1,1,X,0,B. Monchengladbach,Schalke,2.4,3.37,3.2,-49.97549464,2,2,X,0
+127,Europa League ,1617,1/8-final,Olympiakos Piraeus,Besiktas,2.49,3.15,3.26,-46.80730119,1,1,X,0,Besiktas,Olympiakos Piraeus,1.73,3.7,5.66,-205.9081312,4,1,1,3
+128,Europa League ,1617,1/8-final,Lyon,AS Roma,2.23,3.62,3.34,-70.17664151,4,2,1,2,AS Roma,Lyon,1.72,4.4,4.63,-172.0210176,2,1,1,1
+129,Europa League ,1617,1/8-final,Gent ,Genk,2.18,3.2,3.95,-103.2562408,2,5,2,-3,Genk,Gent ,2.04,3.95,3.55,-96.23927425,1,1,X,0
+130,Europa League ,1617,1/8-final,Celta Vigo,Krasnodar,1.56,4.03,7.38,-269.9727054,2,1,1,1,Krasnodar,Celta Vigo,2.72,3.33,2.79,-4.414119696,0,2,2,-2
+131,Europa League ,1516,Semifinal,Villarreal,Liverpool,2.63,3.11,3.13,-30.23543562,1,0,1,1,Liverpool,Villarreal,1.66,4.17,5.66,-213.0833373,3,0,1,3
+132,Europa League ,1516,Semifinal,Shakhtar Donetsk,Sevilla,2.76,3.31,2.81,-3.118895136,2,2,X,0,Sevilla,Shakhtar Donetsk,1.63,4.29,5.75,-218.9920961,3,1,1,2
+133,Europa League ,1516,Quarterfinal,Villarreal,Sparta Prague,1.49,4.39,8.17,-295.6143152,2,1,1,1,Sparta Prague,Villarreal,3.76,3.53,2.12,99.5407936,2,4,2,-2
+134,Europa League ,1516,Quarterfinal,Dortmund,Liverpool,1.67,4.09,5.6,-210.1886223,1,1,X,0,Liverpool,Dortmund,3.1,3.67,2.36,47.37987635,4,3,1,1
+135,Europa League ,1516,Quarterfinal,Braga,Shakhtar Donetsk,2.75,3.27,2.85,-6.204866471,1,2,2,-1,Shakhtar Donetsk,Braga,1.76,4.11,4.76,-172.837714,4,0,1,4
+136,Europa League ,1516,Quarterfinal,Ath Bilbao,Sevilla,2.3,3.43,3.4,-67.90043241,1,2,2,-1,Sevilla,Ath Bilbao,2.15,3.73,3.48,-83.65631361,1,2,2,-1
+137,Europa League ,1516,1/8-final,Shakhtar Donetsk,Anderlecht,1.7,3.97,5.56,-205.8503481,3,1,1,2,Anderlecht,Shakhtar Donetsk,2.65,3.53,2.77,-7.693558051,0,1,2,-1
+138,Europa League ,1516,1/8-final,Fenerbahce,Braga,1.92,3.45,4.81,-159.5375391,1,0,1,1,Braga,Fenerbahce,2.36,3.37,3.33,-59.81289221,4,1,1,3
+139,Europa League ,1516,1/8-final,Dortmund,Tottenham,1.45,4.86,8.02,-297.1225464,3,0,1,3,Tottenham,Dortmund,3.7,3.72,2.08,100.0553556,1,2,2,-1
+140,Europa League ,1516,1/8-final,Basel,Sevilla,3.04,3.38,2.53,31.90122497,0,0,X,0,Sevilla,Basel,1.55,4.54,6.42,-246.881332,3,0,1,3
+141,Europa League ,1516,1/8-final,Villarreal,Bayer Leverkusen,2.34,3.34,3.41,-65.41540863,2,0,1,2,Bayer Leverkusen,Villarreal,2.01,3.69,3.96,-117.7996514,0,0,X,0
+142,Europa League ,1516,1/8-final,Sparta Prague,Lazio,2.66,3.22,3,-20.89584724,1,1,X,0,Lazio,Sparta Prague,1.69,3.78,6.09,-222.6922352,0,3,2,-3
+143,Europa League ,1516,1/8-final,Liverpool,Manchester United,2.11,3.35,4.02,-111.9774391,2,0,1,2,Manchester United,Liverpool,2.59,3.36,2.98,-24.3666,1,1,X,0
+144,Europa League ,1516,1/8-final,Ath Bilbao,Valencia,1.69,4.14,5.35,-200.186831,1,0,1,1,Valencia,Ath Bilbao,3.3,3.48,2.32,61.21038199,2,1,1,1
+145,Europa League ,1415,Semifinal,Sevilla,Fiorentina,1.7,4.16,5.2,-194.2217689,3,0,1,3,Fiorentina,Sevilla,2.08,4.02,3.4,-85.36623283,0,2,2,-2
+146,Europa League ,1415,Semifinal,Napoli,Dnipro,1.43,4.9,8.37,-306.9557682,1,1,X,0,Dnipro,Napoli,4.26,3.58,1.97,133.9773492,1,0,1,1
+147,Europa League ,1415,Quarterfinal,Wolfsburg,Napoli,1.9,3.84,4.3,-141.8859419,1,4,2,-3,Napoli,Wolfsburg,2.07,4,3.49,-90.7420326,2,2,X,0
+148,Europa League ,1415,Quarterfinal,Sevilla,Zenit Petersburg,1.73,3.73,5.75,-208.6486966,2,1,1,1,Zenit Petersburg,Sevilla,2.43,3.51,3.09,-41.74088233,2,2,X,0
+149,Europa League ,1415,Quarterfinal,Dyn. Kiev,Fiorentina,2.36,3.37,3.33,-59.81289221,1,1,X,0,Fiorentina,Dyn. Kiev,1.71,3.94,5.45,-201.3601568,2,0,1,2
+150,Europa League ,1415,Quarterfinal,Club Brugge KV,Dnipro,2.07,3.4,4.15,-120.8311005,0,0,X,0,Dnipro,Club Brugge KV,1.97,3.45,4.48,-142.7247151,1,0,1,1
+151,Europa League ,1415,1/8-final,Zenit Petersburg,Torino,1.69,3.71,6.33,-229.4068022,2,0,1,2,Torino,Zenit Petersburg,2.87,3.18,2.77,6.160851068,1,0,1,1
+152,Europa League ,1415,1/8-final,Wolfsburg,Inter,1.66,4.33,5.35,-203.2982776,3,1,1,2,Inter,Wolfsburg,2.73,3.83,2.56,11.16907269,1,2,2,-1
+153,Europa League ,1415,1/8-final,Dnipro,Ajax,2.18,3.34,3.78,-95.61412249,1,0,1,1,Ajax,Dnipro,1.83,3.7,4.9,-171.0979961,1,0,1,1
+154,Europa League ,1415,1/8-final,Club Brugge KV,Besiktas,2.05,3.43,4.18,-123.7689683,2,1,1,1,Besiktas,Club Brugge KV,1.96,3.65,4.22,-133.2225518,1,3,2,-2
+155,Europa League ,1415,1/8-final,Villarreal,Sevilla,2.06,3.56,3.94,-112.6516006,1,3,2,-2,Sevilla,Villarreal,2.5,3.69,2.87,-23.97675522,2,1,1,1
+156,Europa League ,1415,1/8-final,Napoli,Dynamo Moscow,1.53,4.42,7.08,-266.1367307,3,1,1,2,Dynamo Moscow,Napoli,2.93,3.61,2.49,28.2673093,0,0,X,0
+157,Europa League ,1415,1/8-final,Fiorentina,AS Roma,2.56,3.14,3.2,-38.7640052,1,1,X,0,AS Roma,Fiorentina,2.21,3.46,3.59,-84.28086996,0,3,2,-3
+158,Europa League ,1415,1/8-final,Everton,Dyn. Kiev,2.27,3.31,3.6,-80.11065743,2,1,1,1,Dyn. Kiev,Everton,2.15,3.55,3.66,-92.41705019,5,2,1,3
+159,Europa League ,1314,Semifinal,Sevilla,Valencia,1.76,3.92,5.05,-183.1114841,2,0,1,2,Valencia,Sevilla,2.28,3.64,3.25,-61.57940559,3,1,1,2
+160,Europa League ,1314,Semifinal,Benfica,Juventus,2.87,3,2.85,1.21481469,2,1,1,1,Juventus,Benfica,1.58,4.23,6.53,-246.5024377,0,0,X,0
+161,Europa League ,1314,Quarterfinal,Lyon,Juventus,6.05,3.98,1.66,224.6589146,0,1,2,-1,Juventus,Lyon,1.31,5.44,14.01,-411.6667359,2,1,1,1
+162,Europa League ,1314,Quarterfinal,FC Porto,Sevilla,2.04,3.41,4.23,-126.68408,1,0,1,1,Sevilla,FC Porto,1.91,3.71,4.41,-145.3620889,4,1,1,3
+163,Europa League ,1314,Quarterfinal,Basel,Valencia,3.12,3.38,2.48,39.88116528,3,0,1,3,Valencia,Basel,1.5,4.99,6.61,-257.6440802,3,0,1,3
+164,Europa League ,1314,Quarterfinal,AZ Alkmaar,Benfica,5.14,3.6,1.83,179.4048117,0,1,2,-1,Benfica,AZ Alkmaar,1.3,5.74,13.48,-406.298616,2,0,1,2
+165,Europa League ,1314,1/8-final,Ludogorets,Valencia,3.93,3.43,2.11,108.044038,0,3,2,-3,Valencia,Ludogorets,1.58,4.38,6.29,-239.9974234,1,0,1,1
+166,Europa League ,1314,1/8-final,FC Porto,Napoli,2.1,3.49,3.81,-103.4822724,1,0,1,1,Napoli,FC Porto,1.98,3.63,4.16,-128.9712561,2,2,X,0
+167,Europa League ,1314,1/8-final,Basel,Salzburg,3.92,3.66,2.03,114.3160116,0,0,X,0,Salzburg,Basel,1.47,4.99,7.19,-275.7646223,1,2,2,-1
+168,Europa League ,1314,1/8-final,Tottenham ,Benfica,2.39,3.43,3.23,-52.32184855,1,3,2,-2,Benfica,Tottenham ,1.61,4.29,5.96,-227.3681535,2,2,X,0
+169,Europa League ,1314,1/8-final,Sevilla,Betis,1.58,4.36,6.3,-240.273385,0,2,2,-2,Betis,Sevilla,4.26,3.72,1.93,137.540916,0,2,2,-2
+170,Europa League ,1314,1/8-final,Lyon,Plzen,1.87,3.53,4.99,-170.5035756,4,1,1,3,Plzen,Lyon,2.35,3.48,3.26,-56.85989512,2,1,1,1
+171,Europa League ,1314,1/8-final,Juventus ,Fiorentina,1.43,4.73,8.94,-318.4005925,1,1,X,0,Fiorentina,Juventus ,5.04,3.74,1.79,179.8310022,0,1,2,-1
+172,Europa League ,1314,1/8-final,AZ Alkmaar,Anzi Makhackala,1.78,3.69,5.4,-192.789503,1,0,1,1,Anzi Makhackala,AZ Alkmaar,2.26,3.29,3.67,-84.22305004,0,0,X,0
+173,Europa League ,1213,Semifinal,Fenerbahce,Benfica,3.15,3.41,2.44,44.36829098,1,0,1,1,Benfica,Fenerbahce,1.49,4.7,7.46,-279.8210236,3,1,1,2
+174,Europa League ,1213,Semifinal,Basel,Chelsea,2.89,3.35,2.65,15.06078753,1,2,2,-1,Chelsea,Basel,1.57,4.2,6.8,-254.6437041,3,1,1,2
+175,Europa League ,1213,Quarterfinal,Tottenham ,Basel,1.55,4.34,6.93,-260.1606146,2,2,X,0,Basel,Tottenham ,2.36,3.48,3.24,-55.05320289,2,2,X,0
+176,Europa League ,1213,Quarterfinal,Fenerbahce,Lazio,2.18,3.35,3.77,-95.15394264,2,0,1,2,Lazio,Fenerbahce,1.78,3.78,5.08,-182.177484,1,1,X,0
+177,Europa League ,1213,Quarterfinal,Chelsea,Rubin Kazan,1.63,3.83,6.94,-251.6687464,3,1,1,2,Rubin Kazan,Chelsea,2.66,3.31,2.92,-16.20048593,3,2,1,1
+178,Europa League ,1213,Quarterfinal,Benfica,Newcastle Utd,1.47,4.59,8.23,-299.2330002,3,1,1,2,Newcastle Utd,Benfica,3.65,3.62,2.13,93.56530441,1,1,X,0
+179,Europa League ,1213,1/8-final,Anzi Makhackala,Newcastle Utd,1.58,4.05,7.19,-263.2287214,0,0,X,0,Newcastle Utd,Anzi Makhackala,2.18,3.57,3.56,-85.19740175,1,0,1,1
+180,Europa League ,1213,1/8-final,VfB Stuttgart,Lazio,2.06,3.48,4.01,-115.7108609,0,2,2,-2,Lazio,VfB Stuttgart,2.52,3.28,3.13,-37.65751871,3,1,1,2
+181,Europa League ,1213,1/8-final,Plzen,Fenerbahce,1.96,3.53,4.42,-141.2664792,0,1,2,-1,Fenerbahce,Plzen,2.02,3.34,4.38,-134.4490964,1,1,X,0
+182,Europa League ,1213,1/8-final,FCSB,Chelsea,3.49,3.26,2.35,68.70302587,1,0,1,1,Chelsea,FCSB,1.28,6.09,12.9,-401.3518963,3,1,1,2
+183,Europa League ,1213,1/8-final,Tottenham ,Inter,1.68,4.17,5.4,-202.8337912,3,0,1,3,Inter,Tottenham ,2.4,3.56,3.1,-44.46018085,3,0,1,3
+184,Europa League ,1213,1/8-final,Levante ,Rubin Kazan,2.19,3.32,3.81,-96.19234433,0,0,X,0,Rubin Kazan,Levante ,2.21,3.1,4.05,-105.2250998,0,0,X,0
+185,Europa League ,1213,1/8-final,Benfica,Bordeaux,1.55,4.05,7.9,-282.9181572,1,0,1,1,Bordeaux,Benfica,2.8,3.2,2.86,-3.683200715,2,3,2,-1
+186,Europa League ,1213,1/8-final,Basel,Zenit Petersburg,3.22,3.4,2.41,50.33553165,2,0,1,2,Zenit Petersburg,Basel,1.53,4.32,7.35,-272.6383633,1,0,1,1
+187,Europa League ,1112,Semifinal,Sporting,Ath Bilbao,2.67,3.47,2.8,-8.258707991,2,1,1,1,Ath Bilbao,Sporting,1.62,4.25,5.97,-226.5837266,3,1,1,2
+188,Europa League ,1112,Semifinal,Atl. Madrid,Valencia,2.08,3.58,3.8,-104.6881047,4,2,1,2,Valencia,Atl. Madrid,2.13,3.72,3.57,-89.71544507,0,1,2,-1
+189,Europa League ,1112,Quarterfinal,Sporting,Metalist Kharkiv,2.02,3.53,4.15,-125.0786909,2,1,1,1,Metalist Kharkiv,Sporting,2.17,3.68,3.47,-81.54789638,1,1,X,0
+190,Europa League ,1112,Quarterfinal,Schalke,Ath Bilbao,2.04,3.66,3.86,-110.7828549,2,4,2,-2,Ath Bilbao,Schalke,1.75,4.38,4.51,-164.4553973,2,2,X,0
+191,Europa League ,1112,Quarterfinal,AZ Alkmaar,Valencia,2.8,3.51,2.64,10.22164179,2,1,1,1,Valencia,AZ Alkmaar,1.41,5.09,8.63,-314.7166732,4,0,1,4
+192,Europa League ,1112,Quarterfinal,Atl. Madrid,Hannover,1.42,4.88,9.16,-323.8428517,2,1,1,1,Hannover,Atl. Madrid,3,3.76,2.38,40.21771907,1,2,2,-1
+193,Europa League ,1112,1/8-final,Twente,Schalke,2.04,3.46,4.09,-120.8372562,1,0,1,1,Schalke,Twente,1.7,4.09,5.33,-198.5113151,4,1,1,3
+194,Europa League ,1112,1/8-final,Sporting,Manchester City,4.87,3.45,1.91,162.5982376,1,0,1,1,Manchester City,Sporting,1.26,6.48,13.57,-412.883721,3,2,1,1
+195,Europa League ,1112,1/8-final,Metalist Kharkiv,Olymiakos Piraeus,2.27,3.25,3.69,-84.40020359,0,1,2,-1,Olymiakos Piraeus,Metalist Kharkiv,1.97,3.61,4.22,-132.3384899,1,2,2,-1
+196,Europa League ,1112,1/8-final,Atl. Madrid,Besiktas,1.29,5.9,13.07,-402.2743509,3,1,1,2,Besiktas,Atl. Madrid,4.12,3.7,1.97,128.1723959,0,3,2,-3
+197,Europa League ,1112,1/8-final,Valencia,PSV,1.65,3.87,6.3,-232.7426421,4,2,1,2,PSV,Valencia,2.18,3.6,3.52,-83.23446795,1,1,X,0
+198,Europa League ,1112,1/8-final,St. Liege,Hannover,2.54,3.39,2.98,-27.75301898,2,2,X,0,Hannover,St. Liege,1.72,3.74,5.79,-210.8600467,4,0,1,4
+199,Europa League ,1112,1/8-final,Manchester United,Ath Bilbao,1.56,4.36,6.72,-253.6978699,2,3,2,-1,Ath Bilbao,Manchester United,2.59,3.65,2.74,-9.780319496,2,1,1,1
+200,Europa League ,1112,1/8-final,AZ Alkmaar,Udinese,1.93,3.35,4.59,-150.5021506,2,0,1,2,Udinese,AZ Alkmaar,1.95,3.54,4.43,-142.5476459,2,1,1,1
+201,Europa League ,1011,Semifinal,Benfica,Braga,1.74,3.69,5.77,-208.2506259,2,1,1,1,Braga,Benfica,2.86,3.44,2.63,14.56411386,1,0,1,1
+202,Europa League ,1011,Quarterfinal,Dyn. Kiev,Braga,1.71,3.77,5.87,-214.2567963,1,1,X,0,Braga,Dyn. Kiev,2.4,3.53,3.13,-46.13323833,0,0,X,0
+203,Europa League ,1011,Quarterfinal,Benfica,PSV,1.76,3.92,5.05,-183.1114841,4,1,1,3,PSV,Benfica,2.88,3.51,2.57,19.78374577,2,2,X,0
+204,Europa League ,1011,1/8-final,PSV,Rangers,1.43,4.55,9.63,-331.3160999,0,0,X,0,Rangers,PSV,3.49,3.32,2.31,71.68537883,0,1,2,-1
+205,Europa League ,1011,1/8-final,CSKA Moscow,FC Porto,3.01,3.26,2.62,24.10608171,0,1,2,-1,FC Porto,CSKA Moscow,1.56,4.36,6.55,-249.2466807,2,1,1,1
+206,Europa League ,1011,1/8-final,Braga,Liverpool,3.03,3.29,2.58,27.92916902,1,0,1,1,Liverpool,Braga,1.45,4.66,8.65,-310.2592421,0,0,X,0
+207,Europa League ,1011,1/8-final,Bayer Leverkusen,Villarreal,1.76,3.96,4.97,-180.3374884,2,3,2,-1,Villarreal,Bayer Leverkusen,2.41,3.66,3.02,-39.19596015,2,1,1,1
+208,Europa League ,1011,1/8-final,Twente,Zenit Petersburg,2.52,3.44,3,-30.28828558,3,0,1,3,Zenit Petersburg,Twente,1.55,4.41,6.6,-251.6848949,2,0,1,2
+209,Europa League ,1011,1/8-final,Dyn. Kiev,Manchester City,2.52,3.4,3.05,-33.15971943,2,0,1,2,Manchester City,Dyn. Kiev,1.53,4.33,7.31,-271.6903785,1,0,1,1
+210,Europa League ,1011,1/8-final,Benfica,Paris SG,1.55,4.24,7.12,-264.8593182,2,1,1,1,Paris SG,Benfica,2.67,3.47,2.8,-8.258707991,1,1,X,0
+211,Europa League ,1011,1/8-final,Ajax,Spartak Moscow,1.65,4.11,5.88,-220.7573527,0,1,2,-1,Spartak Moscow,Ajax,3.05,3.4,2.52,33.15971943,3,0,1,3
+212,Europa League ,0910,Semifinal,Hamburger SV,Fulham,1.7,3.8,5.8,-213.1916289,0,0,X,0,Fulham,Hamburger SV,2.41,3.26,3.36,-57.72889393,2,1,1,1
+213,Europa League ,0910,Semifinal,Atl. Madrid,Liverpool,2.42,3.44,3.16,-46.34868666,1,0,1,1,Liverpool,Atl. Madrid,1.65,4.3,5.58,-211.6601019,1,0,1,1
+214,Europa League ,0910,Quarterfinal,Valencia,Atl. Madrid,1.83,3.79,4.72,-164.5963636,2,2,X,0,Atl. Madrid,Valencia,2.22,3.74,3.33,-70.43650362,0,0,X,0
+215,Europa League ,0910,Quarterfinal,Hamburger SV,St. Liege,1.45,4.5,8.8,-313.245868,2,1,1,1,St. Liege,Hamburger SV,3.39,3.35,2.31,66.63508732,1,3,2,-2
+216,Europa League ,0910,Quarterfinal,Fulham,Wolfsburg,2.16,3.59,3.57,-87.28578598,2,1,1,1,Wolfsburg,Fulham,1.65,4.29,5.5,-209.1514981,0,1,2,-1
+217,Europa League ,0910,Quarterfinal,Benfica,Liverpool,2.35,3.23,3.52,-70.18992048,2,1,1,1,Liverpool,Benfica,1.67,4.25,5.43,-204.8333434,4,1,1,3
+218,Europa League ,0910,1/8-final,Rubin Kazan,Wolfsburg,1.92,3.7,4.3,-140.0668908,1,1,X,0,Wolfsburg,Rubin Kazan,1.79,3.84,4.87,-173.8703721,1,1,X,0
+219,Europa League ,0910,1/8-final,Lille,Liverpool,2.9,3.13,2.77,7.967291534,1,0,1,1,Liverpool,Lille,1.54,4.19,7.25,-269.1269143,3,0,1,3
+220,Europa League ,0910,1/8-final,Hamburger SV,Anderlecht,1.65,3.9,6.14,-228.2737708,3,1,1,2,Anderlecht,Hamburger SV,2.52,3.42,2.97,-28.54236341,4,3,1,1
+221,Europa League ,0910,1/8-final,Atl. Madrid,Sporting,1.75,3.77,5.3,-192.4951284,0,0,X,0,Sporting,Atl. Madrid,2.54,3.39,2.96,-26.58319778,2,2,X,0
+222,Europa League ,0910,1/8-final,Valencia,SV Werder Bremen,1.96,3.71,4.08,-127.3616367,1,1,X,0,SV Werder Bremen,Valencia,2.06,3.65,3.7,-101.7338015,4,4,X,0
+223,Europa League ,0910,1/8-final,Panathinaikos,St. Liege,1.67,3.85,6.04,-223.328187,1,3,2,-2,St. Liege,Panathinaikos,2.86,3.38,2.61,15.89021032,1,0,1,1
+224,Europa League ,0910,1/8-final,Juventus ,Fulham,1.66,3.72,6.44,-235.5111117,3,1,1,2,Fulham,Juventus ,2.35,3.36,3.31,-59.5040526,4,1,1,3
+225,Europa League ,0910,1/8-final,Benfica,Marseille,1.92,3.64,4.38,-143.2691527,1,1,X,0,Marseille,Benfica,2.14,3.44,3.7,-95.11518029,1,2,2,-1
+226,Europa League ,0809,Semifinal,Dyn. Kiev,Shakhtar Donetsk,2.08,3.31,4.23,-123.310813,1,1,X,0,Shakhtar Donetsk,Dyn. Kiev,2.23,3.34,3.62,-84.16148299,2,1,1,1
+227,Europa League ,0809,Semifinal,SV Werder Bremen,Hamburger SV,1.85,3.79,4.62,-158.9880989,0,1,2,-1,Hamburger SV,SV Werder Bremen,2.69,3.59,2.71,-1.286804349,2,3,2,-1
+228,Europa League ,0809,Quarterfinal,Shakhtar Donetsk,Marseille,2.13,3.23,4.12,-114.607045,2,0,1,2,Marseille,Shakhtar Donetsk,1.78,3.85,4.96,-178.0246697,1,2,2,-1
+229,Europa League ,0809,Quarterfinal,SV Werder Bremen,Udinese,1.56,3.98,7.1,-263.2535001,3,1,1,2,Udinese,SV Werder Bremen,2.62,3.53,2.79,-10.92116478,3,3,X,0
+230,Europa League ,0809,Quarterfinal,Paris SG,Dyn. Kiev,2.31,3.36,3.41,-67.65695964,0,0,X,0,Dyn. Kiev,Paris SG,1.75,3.75,5.43,-196.7047124,3,0,1,3
+231,Europa League ,0809,Quarterfinal,Hamburger SV,Manchester City,2.17,3.27,3.89,-101.395947,3,1,1,2,Manchester City,Hamburger SV,2.06,3.58,3.9,-110.8789547,2,1,1,1
+232,Europa League ,0809,1/8-final,Hamburger SV,Galatasaray,1.8,3.63,5.01,-177.8260883,1,1,X,0,Galatasaray,Hamburger SV,2.2,3.35,3.47,-79.16271759,2,3,2,-1
+233,Europa League ,0809,1/8-final,Dyn. Kiev,Metalist Kharkiv,1.88,3.41,5.17,-175.7330775,1,0,1,1,Metalist Kharkiv,Dyn. Kiev,2.73,3.28,2.78,-3.152859551,3,2,1,1
+234,Europa League ,0809,1/8-final,CSKA Moscow,Shakhtar Donetsk,1.78,3.62,5.4,-192.789503,1,0,1,1,Shakhtar Donetsk,CSKA Moscow,2.13,3.4,3.9,-105.0740014,2,0,1,2
+235,Europa League ,0809,1/8-final,Paris SG,Braga,1.81,3.5,5.74,-200.493327,0,0,X,0,Braga,Paris SG,2.37,3.3,3.35,-60.11858441,0,1,2,-1
+236,Europa League ,0809,1/8-final,SV Werder Bremen,St Etienne,1.48,4.4,8.57,-305.0876426,1,0,1,1,St Etienne,SV Werder Bremen,3.4,3.26,2.39,61.23240644,2,2,X,0
+237,Europa League ,0809,1/8-final,Udinese,Zenit Petersburg,2.43,3.37,3.21,-48.35950352,2,0,1,2,Zenit Petersburg,Udinese,1.79,3.71,4.86,-173.5132953,1,0,1,1
+238,Europa League ,0809,1/8-final,Marseille,Ajax,1.82,3.61,5.48,-191.4836682,2,1,1,1,Ajax,Marseille,2.58,3.42,2.93,-22.09916576,2,1,1,1
+239,Europa League ,0809,1/8-final,Manchester City ,Aalborg,1.5,4.25,8.61,-303.564757,2,0,1,2,Aalborg,Manchester City ,3.08,3.4,2.45,39.75385285,2,0,1,2
